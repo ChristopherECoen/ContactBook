@@ -58,7 +58,6 @@ namespace ContactBook
             txtPhone.Text = person.phoneNum;
             txtAddress.Text = person.address;
             birthdayPicker.Value = person.birthdate;
-            txtNotes.Text = person.notes;
         }
         private void button2_Click(object sender, EventArgs e)
         {
@@ -73,7 +72,6 @@ namespace ContactBook
             person.phoneNum = txtPhone.Text;
             person.address = txtAddress.Text;
             person.birthdate = birthdayPicker.Value;
-            person.notes = txtNotes.Text;
             UpdateDisplayMember();
             SaveFile();
         }

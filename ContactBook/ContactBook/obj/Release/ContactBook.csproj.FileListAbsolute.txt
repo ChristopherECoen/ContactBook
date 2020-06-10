@@ -1,7 +1,6 @@
 C:\Users\xexel\OneDrive\Desktop\PortfolioProjects\ContactBook\ContactBook\bin\Release\ContactBook.exe.config
 C:\Users\xexel\OneDrive\Desktop\PortfolioProjects\ContactBook\ContactBook\bin\Release\ContactBook.exe
 C:\Users\xexel\OneDrive\Desktop\PortfolioProjects\ContactBook\ContactBook\bin\Release\ContactBook.pdb
-C:\Users\xexel\OneDrive\Desktop\PortfolioProjects\ContactBook\ContactBook\obj\Release\ContactBook.csprojAssemblyReference.cache
 C:\Users\xexel\OneDrive\Desktop\PortfolioProjects\ContactBook\ContactBook\obj\Release\ContactBook.Form1.resources
 C:\Users\xexel\OneDrive\Desktop\PortfolioProjects\ContactBook\ContactBook\obj\Release\ContactBook.Properties.Resources.resources
 C:\Users\xexel\OneDrive\Desktop\PortfolioProjects\ContactBook\ContactBook\obj\Release\ContactBook.csproj.GenerateResource.cache

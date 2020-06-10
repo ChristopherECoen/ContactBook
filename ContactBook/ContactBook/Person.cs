@@ -8,7 +8,7 @@ namespace ContactBook
 {
     public class Person
     {
-        public string name, email, phoneNum, address, notes;
+        public string name, email, phoneNum, address;
         public DateTime birthdate;
 
         public string Name{
@@ -20,7 +20,6 @@ namespace ContactBook
             email = "";
             phoneNum = "";
             address = "";
-            notes = "";
             birthdate = DateTime.Today;
         }
         ~Person() {
