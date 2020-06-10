@@ -8,3 +8,13 @@ C:\Users\xexel\OneDrive\Desktop\PortfolioProjects\ContactBook\ContactBook\obj\De
 C:\Users\xexel\OneDrive\Desktop\PortfolioProjects\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.CoreCompileInputs.cache
 C:\Users\xexel\OneDrive\Desktop\PortfolioProjects\ContactBook\ContactBook\obj\Debug\ContactBook.exe
 C:\Users\xexel\OneDrive\Desktop\PortfolioProjects\ContactBook\ContactBook\obj\Debug\ContactBook.pdb
+C:\Users\xexel\OneDrive\Documents\GitHub\ContactBook\ContactBook\ContactBook\bin\Debug\ContactBook.exe.config
+C:\Users\xexel\OneDrive\Documents\GitHub\ContactBook\ContactBook\ContactBook\bin\Debug\ContactBook.exe
+C:\Users\xexel\OneDrive\Documents\GitHub\ContactBook\ContactBook\ContactBook\bin\Debug\ContactBook.pdb
+C:\Users\xexel\OneDrive\Documents\GitHub\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.csprojAssemblyReference.cache
+C:\Users\xexel\OneDrive\Documents\GitHub\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.Form1.resources
+C:\Users\xexel\OneDrive\Documents\GitHub\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.Properties.Resources.resources
+C:\Users\xexel\OneDrive\Documents\GitHub\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.GenerateResource.cache
+C:\Users\xexel\OneDrive\Documents\GitHub\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\xexel\OneDrive\Documents\GitHub\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.exe
+C:\Users\xexel\OneDrive\Documents\GitHub\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.pdb

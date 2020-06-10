@@ -207,7 +207,10 @@
             this.ClientSize = new System.Drawing.Size(682, 203);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
+            this.MaximumSize = new System.Drawing.Size(700, 250);
+            this.MinimumSize = new System.Drawing.Size(700, 250);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Coen Contact Book";
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
